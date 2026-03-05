@@ -1,4 +1,4 @@
-﻿const DOWNLOAD_URL = "https://drive.google.com/drive/folders/1FSk7vuwbOKB1H0q0-S6evW6LE93kSEav";
+﻿const DOWNLOAD_URL = "https://github.com/dhruvgupta-og/RGPV-paper-apk/releases/download/v1.0/RGPV.Resources.apk";
 
 const downloadBtn = document.getElementById("downloadBtn");
 const copyLinkBtn = document.getElementById("copyLinkBtn");
